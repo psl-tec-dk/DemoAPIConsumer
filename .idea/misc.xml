@@ -3,7 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/xperim/H4/1205hf22044p/App2/Prep/DemoAPIConsumer/app/src/main/res/layout/activity_add.xml" value="0.20677083333333332" />
+        <entry key="..\:/xperim/H4/1205hf22044p/App2/Prep/DemoAPIConsumer/app/src/main/res/layout/activity_edit.xml" value="0.22083333333333333" />
         <entry key="..\:/xperim/H4/1205hf22044p/App2/Prep/DemoAPIConsumer/app/src/main/res/layout/activity_main.xml" value="0.22083333333333333" />
+        <entry key="..\:/xperim/H4/1205hf22044p/App2/Prep/DemoAPIConsumer/app/src/main/res/layout/person_list_item.xml" value="0.36666666666666664" />
       </map>
     </option>
   </component>
